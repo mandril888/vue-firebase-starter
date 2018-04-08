@@ -4,12 +4,12 @@ import 'firebaseui/dist/firebaseui.css'
 import store from './store'
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyCe4SzuYlIbQWHwDOcLzO_UZrO9kkBtYx8',
-  authDomain: 'vue-boilerplate-5d1f0.firebaseapp.com',
-  databaseURL: 'https://vue-boilerplate-5d1f0.firebaseio.com',
-  projectId: 'vue-boilerplate-5d1f0',
-  storageBucket: 'vue-boilerplate-5d1f0.appspot.com',
-  messagingSenderId: '631758104620'
+  apiKey: 'AIzaSyCIMb_qyj_Z16_AbN7BQ9TmTuq0IcNbIcY',
+  authDomain: 'miofilm-ec8e1.firebaseapp.com',
+  databaseURL: 'https://miofilm-ec8e1.firebaseio.com',
+  projectId: 'miofilm-ec8e1',
+  storageBucket: '',
+  messagingSenderId: '964629468268'
 })
 
 if (__DEV__) {
